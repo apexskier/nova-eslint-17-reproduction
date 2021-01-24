@@ -1,0 +1,4 @@
+{
+  "apexskier.eslint.config.eslintConfigPath" : "a\/package.json",
+  "apexskier.eslint.config.eslintPath" : "a\/node_modules\/eslint\/bin\/eslint.js"
+}
